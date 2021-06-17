@@ -10,4 +10,4 @@ requests
 
 ## Files created
 simple.py - Scraped data from simple.html webpage which I developed  
-scrape.py - scarped data from https://coreyms.com
+scrape.py - scraped data from https://coreyms.com
